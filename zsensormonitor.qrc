@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>../images/ti.ico</file>
+        <file>../images/play_128.png</file>
+        <file>../images/open_128.png</file>
+		<file>../images/save_128.png</file>
+        <file>../images/pause_128.png</file>
+        <file>../images/stop_128.png</file>
+        <file>../images/refresh_128.png</file>
+        <file>../images/help_128.png</file>
+        <file>../images/information_128.png</file>
+        <file>../images/settings_128.png</file>
+        <file>../images/ti_banner.png</file>
+        <file>../images/ti_logo_red.png</file>
+        <file>../images/chip_2.png</file>
+    </qresource>
+</RCC>
